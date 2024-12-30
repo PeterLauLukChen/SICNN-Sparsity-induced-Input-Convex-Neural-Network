@@ -1,6 +1,6 @@
-# SICNN: Sparsity-induced Input Convex Neural Network for Optimal Transport
+#[NeurIPS 2024 OPT] SICNN: Sparsity-induced Input Convex Neural Network for Optimal Transport
 
-**Anonymous authors, anonymous affiliation**
+**Peter Chen, Yue Xie, Qingpeng Zhang**
 
 ## Implementation
 This module contains three different methods as shown in the paper:
